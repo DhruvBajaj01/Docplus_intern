@@ -1,5 +1,4 @@
-
-### SCRIPT for TRANSLATION
+# SCRIPT for TRANSLATION
 
 1. Translate english values
 2. Pair them with their keys
